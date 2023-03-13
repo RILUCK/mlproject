@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://static.javatpoint.com/tutorial/machine-learning/images/machine-learning-life-cycle.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">End to end Machine Learning Project Deployment</h3>
+<h3 align="center">End To End Machine Learning Project Deployment</h3>
 
 <div align="center">
 
