@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">End to end Machine Learning Project Deployment</h3>
 
 <div align="center">
 
@@ -99,15 +99,16 @@ python src/components/data_ingestion.py
 
 ### End to end tests
 
-Apply all possible regression model and find/keep the best performing model for predicitng the math_score
+Apply all possible regression model and find/keep the best performing model for predicitng the math_score.
 
 ```
-Got r2_score of near 0.87
+python src/components/data_ingestion.py 
 ```
+Got r2_score of near 0.87
 
 ### And coding style tests
 
-Pick the best performing model for your project objective
+Pick the best performing model for your project objective.
 
 ## 🎈 Usage <a name="usage"></a>
 
