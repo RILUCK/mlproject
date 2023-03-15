@@ -131,4 +131,4 @@ TODO: Add additional notes about how to deploy this on a live system.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Keep hustling!
+- Keep learning & hustling!
