@@ -116,13 +116,12 @@ Above code can be used and tested with the command shared above.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-TODO: Add additional notes about how to deploy this on a live system.
+- [@Deployment](http://studentperformance-env.eba-ztqscxjf.us-east-1.elasticbeanstalk.com/)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Python](https://www.python.org/) - Python Programming Language
 - [Sklearn](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning) - Sklearn
-
 
 ## ✍️ Authors <a name = "authors"></a>
 
